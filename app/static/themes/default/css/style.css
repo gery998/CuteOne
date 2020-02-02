@@ -8,10 +8,9 @@ body {
     margin: 20px -8px 0 !important;
     padding: 15px !important;
     border-radius: 5px;
-    background-color: #fff;
+    background-color: rgba(255,255,255,.5);
     -webkit-box-shadow: 0 .5em 3em rgba(161, 177, 204, .4);
     box-shadow: 0 .5em 3em rgba(161, 177, 204, .4);
-    background-color: #fff
 }
 
 .mdui-img-fluid,
@@ -29,7 +28,7 @@ body {
     margin: 0 !important;
     border-radius: 5px;
     padding: 0 10px 0 5px !important;
-    border: 1px solid #eee;
+    border: 1px solid rgba(255,255,255,.0);
     margin-bottom: 10px !important
 }
 
